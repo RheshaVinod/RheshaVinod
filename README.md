@@ -8,7 +8,7 @@ MS Computer Science student at USC, building at the intersection of AI research 
 ### What I'm working on
 - Explainability in medical vision-language models
 - Knowledge editing pipelines in LLMs
-- My personal portfolio site
+- My personal portfolio
 
 ### What I'm exploring
 - Multimodal AI systems

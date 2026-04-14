@@ -12,7 +12,7 @@ MS Computer Science student at USC, building at the intersection of AI research 
 
 ### What I'm exploring
 - Multimodal AI systems
-- Scalable backend architecture
+- Scalable backend architecture and distributed systems
 - Making ML models more transparent and trustworthy
 
 ### Previously
